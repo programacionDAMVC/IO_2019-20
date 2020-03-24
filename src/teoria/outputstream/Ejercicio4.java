@@ -10,7 +10,7 @@ public class Ejercicio4 {
         long enterolargo = 5L;
         char caracter = 'n';
         try (DataOutputStream out = new DataOutputStream(new BufferedOutputStream(new FileOutputStream("ficheros/salida/ejercicio4.dat")))) {
-            out.writeChars(cadena);
+            out.writeUTF(cadena);
             out.writeInt(entero);
             out.writeDouble(racional);
             out.writeLong(enterolargo);
