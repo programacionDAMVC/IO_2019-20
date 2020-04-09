@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa3f75fb-12d1-4a5c-b579-a1f58ffdeb98" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ficheros/ejercicio1/personal.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,6 +28,9 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ficheros/ejercicio1" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/ficheros/entrada" />
     </key>
@@ -43,39 +47,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Ejercicio1 (1)">
+  <component name="RunManager" selected="Application.TestPersonal">
+    <configuration name="Auxiliar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejercicios.ejercicio1.Auxiliar" />
+      <module name="IO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ejercicios.ejercicio1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Ejercicio1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="teoria.ultima.Ejercicio1" />
       <module name="IO" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="teoria.ultima.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ejercicio1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="teoria.miscelanea.Ejercicio1" />
-      <module name="IO" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="teoria.miscelanea.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ejercicio2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="teoria.miscelanea.Ejercicio2" />
-      <module name="IO" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="teoria.miscelanea.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +87,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ejercicio4 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="teoria.inputstream.Ejercicio4" />
+    <configuration name="Persona" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejercicios.ejercicio1.Persona" />
       <module name="IO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="teoria.inputstream.*" />
+          <option name="PATTERN" value="ejercicios.ejercicio1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPersonal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejercicios.ejercicio1.TestPersonal" />
+      <module name="IO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ejercicios.ejercicio1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestPersonal" />
+        <item itemvalue="Application.Auxiliar" />
+        <item itemvalue="Application.Persona" />
         <item itemvalue="Application.Ejercicio1 (1)" />
         <item itemvalue="Application.Ejercicio3" />
-        <item itemvalue="Application.Ejercicio2" />
-        <item itemvalue="Application.Ejercicio1" />
-        <item itemvalue="Application.Ejercicio4 (1)" />
       </list>
     </recent_temporary>
   </component>
