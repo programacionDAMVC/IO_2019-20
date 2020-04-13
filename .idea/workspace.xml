@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa3f75fb-12d1-4a5c-b579-a1f58ffdeb98" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ficheros/ejercicio1/personal.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -47,7 +46,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestPersonal">
+  <component name="RunManager" selected="Application.Ejercicio2">
     <configuration name="Auxiliar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ejercicios.ejercicio1.Auxiliar" />
       <module name="IO" />
@@ -74,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ejercicio3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="teoria.miscelanea.Ejercicio3" />
+    <configuration name="Ejercicio2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejercicios.ejercicio2.Ejercicio2" />
       <module name="IO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="teoria.miscelanea.*" />
+          <option name="PATTERN" value="ejercicios.ejercicio2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ejercicio2" />
         <item itemvalue="Application.TestPersonal" />
         <item itemvalue="Application.Auxiliar" />
         <item itemvalue="Application.Persona" />
         <item itemvalue="Application.Ejercicio1 (1)" />
-        <item itemvalue="Application.Ejercicio3" />
       </list>
     </recent_temporary>
   </component>
@@ -148,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585051778740</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Resolución ejercicio 1&#10;En la plataforma ha vídeos explicando la propuesta de resolución del ejercicio">
+      <created>1586424701161</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1586424701161</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -167,6 +173,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Correción ejercicio propuesto para flujos de salida de tipo caracter" />
     <MESSAGE value="Se añade ejercicio sobre DataInputStream que complementa al ejercicio sobre DataOutputStrea" />
-    <option name="LAST_COMMIT_MESSAGE" value="Se añade ejercicio sobre DataInputStream que complementa al ejercicio sobre DataOutputStrea" />
+    <MESSAGE value="Resolución ejercicio 1&#10;En la plataforma ha vídeos explicando la propuesta de resolución del ejercicio" />
+    <option name="LAST_COMMIT_MESSAGE" value="Resolución ejercicio 1&#10;En la plataforma ha vídeos explicando la propuesta de resolución del ejercicio" />
   </component>
 </project>
